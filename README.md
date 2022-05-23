@@ -1,5 +1,5 @@
 # Hi there, I'm Axel 👋
-[![Website](https://img.shields.io/website?label=www.pixangdev.me&style=for-the-badge&url=http%3A%2F%2Fwww.pixangdev.me)](https://www.pixangdev.me)
+[![Website](https://img.shields.io/website?label=www.pixangdev.me&style=for-the-badge&url=https%3A%2F%2Fwww.pixangdev.me)](https://www.pixangdev.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/raxelf_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fraxelf&screen_name=raxelf_)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kozanagi)
 
