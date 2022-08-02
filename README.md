@@ -1,5 +1,4 @@
 # Hi there, I'm Axel 👋
-[![Website](https://img.shields.io/website?label=www.pixangdev.me&style=for-the-badge&url=https%3A%2F%2Fwww.pixangdev.me)](https://www.pixangdev.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/raxelf_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fraxelf&screen_name=raxelf_)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kozanagi)
 
@@ -10,9 +9,9 @@
 
 ## I'm a Student, Developer!!
 
-- 🌱 I’m currently learning everything
-- 🥅 Goals: Making some income
-- ⚡ Fun fact: I love to play games, reads manga/manhwa/manhua
+- 🌱 I’m currently learning everything.
+- 🥅 Goals: Making some income.
+- ⚡ Fun fact: I love to play games.
 
 ### Languages and Tools:
 <img align="left" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
