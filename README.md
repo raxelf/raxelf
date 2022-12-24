@@ -1,5 +1,4 @@
-# Hi there, I'm Axel 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/raxelf_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fraxelf&screen_name=raxelf_)
+# Greetings, I'm Axel 👋
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kozanagi)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=raxelf&show_icons=true&theme=codeSTACKr" />
