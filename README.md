@@ -23,8 +23,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Student 🏫 from Indonesia.
-- 🌱 I’m currently learning everything.
+I am a Student from Indonesia 🏫 .
+- 🌱 I’m trying to learn everything.
 - 🥅 Goals : Making some income.
 - :zap: In my free time, I usually sleep or playing games.
 
