@@ -1,5 +1,4 @@
 # Greetings, I'm Axel 👋
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kozanagi)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=raxelf&show_icons=true&theme=codeSTACKr" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxelf&layout=compact" />
