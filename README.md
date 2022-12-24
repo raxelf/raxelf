@@ -1,1 +1,3 @@
-<div class="tenor-gif-embed" data-postid="8212679" data-share-method="host" data-aspect-ratio="1.785" data-width="100%"><a href="https://tenor.com/view/lazy-cat-gif-8212679">Lazy Cat GIF</a>from <a href="https://tenor.com/search/lazy-gifs">Lazy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+</div>
