@@ -23,7 +23,6 @@ I'm a college student from Indonesia, passionate about programming and eager to 
 </div>
 
 <div align="center">
-
 ![Unity](https://img.shields.io/badge/Unity-✨-brightgreen)
 ![C#](https://img.shields.io/badge/C%23-✨-blue)
 ![Java](https://img.shields.io/badge/Java-✨-orange)
@@ -33,9 +32,13 @@ I'm a college student from Indonesia, passionate about programming and eager to 
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=raxelf&show_icons=true&theme=dark" alt="GitHub Stats">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raxelf&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raxelf&theme=dark" alt="Streak Stats">
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxelf&layout=compact&theme=dark" alt="Top Languages">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raxelf&theme=dark" alt="Streak Stats">
+
 <img src="https://github-profile-trophy.vercel.app/?username=raxelf&theme=dark" alt="Trophies">
 
 ## 📫 Let's Connect
