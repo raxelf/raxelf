@@ -1,48 +1,41 @@
-<div id="header" align="center">
-  <h1>
-    Greetings!!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-    <div id="badges">
-      <a href="https://www.linkedin.com/in/raxelf/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://www.instagram.com/raxelf_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-      </a>
-      <a href="https://twitter.com/raxelf_">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
-    </div>
-  <img src="https://komarev.com/ghpvc/?username=raxelf&style=flat-square&color=blue" alt=""/>
-  <div align="center">
-    <img src="assets/images/__m200_girls_frontline_drawn_by_vento.gif" width="600" height="300"/>
-  </div>
-</div>
+<!-- Introduction -->
+# Hello, World! 👋
 
----
+<!-- Profile View Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=raxelf)
 
-### :man_technologist: About Me :
-I am a College Student from Indonesia 🏫
-- 🌱 I’m trying to learn everything.
-- 🥅 Goals : Making some income.
-- :zap: In my free time, I usually sleep or playing games.
+<!-- Greeting GIF -->
+![Hello GIF](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/source.gif)
 
----
+<!-- Welcome Message -->
+Welcome to my GitHub profile! I'm delighted to have you here. Feel free to explore my repositories and projects. If you have any questions, ideas, or just want to connect, don't hesitate to reach out.
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity" alt="Unity Badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#" alt="CSharp Badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java"/>&nbsp;
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5"/>&nbsp;
-</div>
+## About Me
 
----
+I'm a passionate developer with a love for coding and a knack for problem-solving. I find joy in working on diverse projects, ranging from web development to data analysis and machine learning. Constantly striving to learn and grow, I am always eager to explore new technologies and expand my skill set.
 
-### :fire: Statistics :
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=raxelf&show_icons=true&theme=great-gatsby&text_color=FFFFFF">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=raxelf&theme=highcontrast">
-  </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxelf&layout=compact&theme=vision-friendly-dark">
+## 🌱 Tech Stack
+
+Here are some technologies and tools that I'm familiar with:
+
+- Programming Languages: Python, JavaScript, Java
+- Web Development: HTML, CSS, React, Node.js
+- Databases: MySQL, MongoDB
+- Machine Learning: TensorFlow, scikit-learn
+- Version Control: Git, GitHub
+
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raxelf&show_icons=true&theme=dark)
+
+## 📫 Let's Connect
+
+I'm always thrilled to connect with fellow developers and enthusiasts. You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/raxelf)
+- [Twitter](https://instagram.com/raxelf_)
+
+Feel free to drop me a message or connect with me on any of these platforms. I'm looking forward to connecting with you!
+
+Thank you for visiting my GitHub profile. Have a fantastic day! 🌟
