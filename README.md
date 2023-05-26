@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raxelf)
 
-<img src="https://i.postimg.cc/hjKbtnW1/guitar-guitar-solo.gif" height="300px" />
+<img src="https://i.postimg.cc/hjKbtnW1/guitar-guitar-solo.gif" height="400px" />
 
 Welcome to my GitHub profile! I'm delighted to have you here. Feel free to explore my repositories and projects. If you have any questions, ideas, or just want to connect, don't hesitate to reach out.
 
