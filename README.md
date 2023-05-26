@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=raxelf)
 
 <!-- Greeting GIF -->
-![Hello GIF](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/source.gif)
+<img src="./assets/images/_m200_girls_frontline_drawn_by_vento.gif" />
 
 <!-- Welcome Message -->
 Welcome to my GitHub profile! I'm delighted to have you here. Feel free to explore my repositories and projects. If you have any questions, ideas, or just want to connect, don't hesitate to reach out.
@@ -34,7 +34,7 @@ Here are some technologies and tools that I'm familiar with:
 I'm always thrilled to connect with fellow developers and enthusiasts. You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/raxelf)
-- [Twitter](https://instagram.com/raxelf_)
+- [Instagram](https://instagram.com/raxelf_)
 
 Feel free to drop me a message or connect with me on any of these platforms. I'm looking forward to connecting with you!
 
