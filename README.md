@@ -33,7 +33,13 @@ I'm a college student from Indonesia, passionate about programming and eager to 
 
 ## 📊 GitHub Stats
 
+<!-- GitHub Stats Cards -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raxelf&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raxelf&layout=compact&theme=dark)
+
+<!-- Additional Stats -->
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=raxelf&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=raxelf&theme=dark)
 
 ## 📫 Let's Connect
 
