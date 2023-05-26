@@ -1,8 +1,14 @@
-# Hello, World! 👋
+<div align="center">
+  <h1>Hello, World! 👋</h1>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=raxelf)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raxelf" alt="Profile Views">
+</p>
 
-<img src="https://i.postimg.cc/hjKbtnW1/guitar-guitar-solo.gif" height="400px" alt="Welcome GIF"/>
+<p align="center">
+  <img src="https://i.postimg.cc/hjKbtnW1/guitar-guitar-solo.gif" height="350px" alt="Welcome GIF"/>
+</p>
 
 Welcome to my GitHub profile! I'm delighted to have you here. Feel free to explore my repositories and projects. If you have any questions, ideas, or just want to connect, don't hesitate to reach out.
 
@@ -12,13 +18,18 @@ I'm a college student from Indonesia, passionate about programming and eager to 
 
 ## 🌱 Tech Stack
 
-Here are some technologies and tools that I'm familiar with:
+<div align="center">
+  <p>Here are some technologies and tools that I'm familiar with:</p>
+</div>
+
+<div align="center">
 
 ![Unity](https://img.shields.io/badge/Unity-✨-brightgreen)
 ![C#](https://img.shields.io/badge/C%23-✨-blue)
 ![Java](https://img.shields.io/badge/Java-✨-orange)
 ![HTML](https://img.shields.io/badge/HTML-✨-red)
 ![React](https://img.shields.io/badge/React-✨-blueviolet)
+</div>
 
 ## 📊 GitHub Stats
 
@@ -28,8 +39,8 @@ Here are some technologies and tools that I'm familiar with:
 
 I'm always thrilled to connect with fellow developers and enthusiasts. You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/raxelf)
-- [Instagram](https://instagram.com/raxelf_)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raxelf)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/raxelf_)
 
 Feel free to drop me a message or connect with me on any of these platforms. I'm looking forward to connecting with you!
 
