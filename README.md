@@ -12,17 +12,17 @@ Welcome to my GitHub profile! I'm delighted to have you here. Feel free to explo
 
 ## About Me
 
-I'm a passionate developer with a love for coding and a knack for problem-solving. I find joy in working on diverse projects, ranging from web development to data analysis and machine learning. Constantly striving to learn and grow, I am always eager to explore new technologies and expand my skill set.
+I'm a college student from Indonesia, passionate about programming and eager to learn. As a young developer, I'm embarking on a long journey in the world of programming, exploring new concepts and honing my skills. While I may not have extensive experience yet, I approach each project and challenge with enthusiasm and a thirst for knowledge.
 
 ## 🌱 Tech Stack
 
 Here are some technologies and tools that I'm familiar with:
 
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB
-- Machine Learning: TensorFlow, scikit-learn
-- Version Control: Git, GitHub
+![Unity](https://img.shields.io/badge/Unity-✨-brightgreen)
+![C#](https://img.shields.io/badge/C%23-✨-blue)
+![Java](https://img.shields.io/badge/Java-✨-orange)
+![HTML](https://img.shields.io/badge/HTML-✨-red)
+![React](https://img.shields.io/badge/React-✨-blueviolet)
 
 ## 📊 GitHub Stats
 
@@ -39,3 +39,6 @@ I'm always thrilled to connect with fellow developers and enthusiasts. You can f
 Feel free to drop me a message or connect with me on any of these platforms. I'm looking forward to connecting with you!
 
 Thank you for visiting my GitHub profile. Have a fantastic day! 🌟
+
+<!-- Farewell GIF -->
+![Farewell GIF](https://i.postimg.cc/9XKJHrFG/m200-anime.gif)
