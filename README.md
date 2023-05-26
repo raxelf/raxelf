@@ -1,13 +1,9 @@
-<!-- Introduction -->
 # Hello, World! 👋
 
-<!-- Profile View Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=raxelf)
 
-<!-- Greeting GIF -->
-![Hello GIF](https://i.postimg.cc/hjKbtnW1/guitar-guitar-solo.gif)
+<img src="https://i.postimg.cc/hjKbtnW1/guitar-guitar-solo.gif" height="300px" />
 
-<!-- Welcome Message -->
 Welcome to my GitHub profile! I'm delighted to have you here. Feel free to explore my repositories and projects. If you have any questions, ideas, or just want to connect, don't hesitate to reach out.
 
 ## About Me
@@ -26,7 +22,6 @@ Here are some technologies and tools that I'm familiar with:
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Card -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raxelf&show_icons=true&theme=dark)
 
 ## 📫 Let's Connect
@@ -40,5 +35,4 @@ Feel free to drop me a message or connect with me on any of these platforms. I'm
 
 Thank you for visiting my GitHub profile. Have a fantastic day! 🌟
 
-<!-- Farewell GIF -->
-![Farewell GIF](https://i.postimg.cc/9XKJHrFG/m200-anime.gif)
+<img src="https://i.postimg.cc/9XKJHrFG/m200-anime.gif" />
