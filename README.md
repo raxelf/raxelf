@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=raxelf)
 
 <!-- Greeting GIF -->
-<img src="./assets/images/_m200_girls_frontline_drawn_by_vento.gif" />
+<img src="/assets/images/_m200_girls_frontline_drawn_by_vento.gif" />
 
 <!-- Welcome Message -->
 Welcome to my GitHub profile! I'm delighted to have you here. Feel free to explore my repositories and projects. If you have any questions, ideas, or just want to connect, don't hesitate to reach out.
