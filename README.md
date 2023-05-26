@@ -36,8 +36,8 @@ I'm a college student from Indonesia, passionate about programming and eager to 
 <!-- GitHub Stats Grid -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raxelf&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raxelf&theme=dark" alt="Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxelf&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raxelf&theme=dark" alt="Streak Stats">
   <img src="https://github-profile-trophy.vercel.app/?username=raxelf&theme=dark" alt="Trophies">
 </div>
 
