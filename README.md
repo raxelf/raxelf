@@ -7,7 +7,7 @@
       <a href="https://www.linkedin.com/in/raxelf/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="https://www.instagram.com/axldev_/">
+      <a href="https://www.instagram.com/raxelf_/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
       <a href="https://twitter.com/raxelf_">
@@ -35,6 +35,7 @@ I am a College Student from Indonesia 🏫
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" title="Unity" alt="Unity Badge"/>&nbsp;
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#" alt="CSharp Badge"/>&nbsp;
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" title="Java" alt="Java"/>&nbsp;
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="Java" alt="Java"/>&nbsp;
 </div>
 
 ---
