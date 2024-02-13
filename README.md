@@ -26,8 +26,6 @@ I'm a college student from Indonesia, passionate about programming and eager to 
   
 ![Unity](https://img.shields.io/badge/Unity-✨-brightgreen)
 ![C#](https://img.shields.io/badge/C%23-✨-blue)
-![Java](https://img.shields.io/badge/Java-✨-orange)
-![HTML](https://img.shields.io/badge/HTML-✨-red)
 ![Laravel](https://img.shields.io/badge/Laravel-✨-blueviolet)
 </div>
 
