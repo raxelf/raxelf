@@ -28,7 +28,7 @@ I'm a college student from Indonesia, passionate about programming and eager to 
 ![C#](https://img.shields.io/badge/C%23-✨-blue)
 ![Java](https://img.shields.io/badge/Java-✨-orange)
 ![HTML](https://img.shields.io/badge/HTML-✨-red)
-![React](https://img.shields.io/badge/React-✨-blueviolet)
+![Laravel](https://img.shields.io/badge/Laravel-✨-blueviolet)
 </div>
 
 ## 📊 GitHub Stats
