@@ -3,10 +3,6 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raxelf" alt="Profile Views">
-</p>
-
-<p align="center">
   <img src="https://i.postimg.cc/hjKbtnW1/guitar-guitar-solo.gif" height="350px" alt="Welcome GIF"/>
 </p>
 
