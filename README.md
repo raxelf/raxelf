@@ -1,5 +1,7 @@
 <div align="center">
   <h1>Hello, World! 👋</h1>
+  
+  ![](https://komarev.com/ghpvc/?username=raxelf&color=orange)
 </div>
 
 Welcome to my GitHub profile! I'm delighted to have you here. Feel free to explore my repositories and projects. If you have any questions, ideas, or just want to connect, don't hesitate to reach out.
